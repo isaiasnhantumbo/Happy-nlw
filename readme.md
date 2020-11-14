@@ -16,7 +16,7 @@
 
 ## 📓 About
 
-The ** Happy ** project is a web page where you can find and register orphanages in your city through the map, it was created during the ** Next_Level_Week ** on the ** Discovery ** trail which is a Rocketseat workshop where in a week we created the web project from scratch, in order to learn web technologies from scratch.
+The **Happy** project is a web page where you can find and register orphanages in your city through the map, it was created during the **Next_Level_Week** on the **Discovery** trail which is a Rocketseat workshop where in a week we created the web project from scratch, in order to learn web technologies from scratch.
 
 ---
 
