@@ -1,0 +1,26 @@
+/* SELECTOR UNIVERSAL */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  height: 100vh;
+  color: white;
+  background: #ebf2f5
+}
+:root {
+  /* 100% EQUIVALE A 16px */
+  font-size: 62.5%;
+}
+body,
+input,
+button,
+textarea {
+  /* font-size: 18px;
+    font-weight: 400;
+    line-height: 1;
+    font-family: 'Nunito', sans-serif; */
+  /* AGRUPAMENTO */
+  font: 400 1.8rem/1 "Nunito", sans-serif;
+}
