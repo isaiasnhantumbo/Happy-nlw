@@ -49,7 +49,7 @@ The **Happy** project is a web page where you can find and register orphanages i
 
 ```bash
  #clonar repositório
- $ git clone https://github.com/isaiasmajorkey/nlw
+ $ git clone https://github.com/isaiasnhantumbo/Happy-nlw.git
 
  #Entrar no directório do projecto
  $ cd nlw
